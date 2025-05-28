@@ -5,7 +5,7 @@
         "useQuickCss": true,
         "themeLinks": [],
         "enabledThemes": [
-            "macchiato.theme.css"
+            "mocha.theme.css"
         ],
         "enableReactDevtools": false,
         "frameless": false,
@@ -616,7 +616,7 @@
             "authenticated": true,
             "url": "https://api.vencord.dev/",
             "settingsSync": false,
-            "settingsSyncVersion": 1746342259245
+            "settingsSyncVersion": 1748280704984
         },
         "eagerPatches": false
     },
